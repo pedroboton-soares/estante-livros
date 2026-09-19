@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "titulo": "A Sociedade do Anel",
+    "saga": "O Senhor dos Anéis",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 9.3
+  },
+  {
+    "id": 2,
+    "titulo": "As Duas Torres",
+    "saga": "O Senhor dos Anéis",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 9.4
+  },
+  {
+    "id": 3,
+    "titulo": "O Retorno do Rei",
+    "saga": "O Senhor dos Anéis",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 9.5
+  },
+  {
+    "id": 4,
+    "titulo": "A Guerra dos Tronos",
+    "saga": "As Crônicas de Gelo e Fogo",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 9.4
+  },
+  {
+    "id": 5,
+    "titulo": "A Fúria dos Reis",
+    "saga": "As Crônicas de Gelo e Fogo",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 9.2
+  },
+  {
+    "id": 6,
+    "titulo": "A Tormenta de Espadas",
+    "saga": "As Crônicas de Gelo e Fogo",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 9.7
+  },
+  {
+    "id": 7,
+    "titulo": "O Festim dos Corvos",
+    "saga": "As Crônicas de Gelo e Fogo",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 8.2
+  },
+  {
+    "id": 8,
+    "titulo": "A Dança dos Dragões",
+    "saga": "As Crônicas de Gelo e Fogo",
+    "genero": "Fantasia épica",
+    "status": "Lido",
+    "nota": 8.7
+  },
+  {
+    "id": 9,
+    "titulo": "A Pirâmide Vermelha",
+    "saga": "As Crônicas dos Kane",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.3
+  },
+  {
+    "id": 10,
+    "titulo": "O Trono de Fogo",
+    "saga": "As Crônicas dos Kane",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.5
+  },
+  {
+    "id": 11,
+    "titulo": "A Sombra da Serpente",
+    "saga": "As Crônicas dos Kane",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.6
+  },
+  {
+    "id": 12,
+    "titulo": "A Espada do Verão",
+    "saga": "Magnus Chase e os Deuses de Asgard",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.4
+  },
+  {
+    "id": 13,
+    "titulo": "O Martelo de Thor",
+    "saga": "Magnus Chase e os Deuses de Asgard",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.5
+  },
+  {
+    "id": 14,
+    "titulo": "O Navio dos Mortos",
+    "saga": "Magnus Chase e os Deuses de Asgard",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.7
+  },
+  {
+    "id": 15,
+    "titulo": "Jogos Vorazes",
+    "saga": "Jogos Vorazes",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 9.2
+  },
+  {
+    "id": 16,
+    "titulo": "Em Chamas",
+    "saga": "Jogos Vorazes",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 9.3
+  },
+  {
+    "id": 17,
+    "titulo": "A Esperança",
+    "saga": "Jogos Vorazes",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 8.8
+  },
+  {
+    "id": 18,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.5
+  },
+  {
+    "id": 19,
+    "titulo": "Harry Potter e a Câmara Secreta",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.1
+  },
+  {
+    "id": 20,
+    "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.6
+  },
+  {
+    "id": 21,
+    "titulo": "Harry Potter e o Cálice de Fogo",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.5
+  },
+  {
+    "id": 22,
+    "titulo": "Harry Potter e a Ordem da Fênix",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.1
+  },
+  {
+    "id": 23,
+    "titulo": "Harry Potter e o Enigma do Príncipe",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.4
+  },
+  {
+    "id": 24,
+    "titulo": "Harry Potter e as Relíquias da Morte",
+    "saga": "Harry Potter",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.6
+  },
+  {
+    "id": 25,
+    "titulo": "Crônicas de Nárnia",
+    "saga": "As Crônicas de Nárnia",
+    "genero": "Fantasia",
+    "status": "Lido",
+    "nota": 9.0
+  },
+  {
+    "id": 26,
+    "titulo": "O Ladrão de Raios",
+    "saga": "Percy Jackson e os Olimpianos",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 9.0
+  },
+  {
+    "id": 27,
+    "titulo": "O Mar de Monstros",
+    "saga": "Percy Jackson e os Olimpianos",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.5
+  },
+  {
+    "id": 28,
+    "titulo": "A Maldição do Titã",
+    "saga": "Percy Jackson e os Olimpianos",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 9.1
+  },
+  {
+    "id": 29,
+    "titulo": "A Batalha do Labirinto",
+    "saga": "Percy Jackson e os Olimpianos",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 9.1
+  },
+  {
+    "id": 30,
+    "titulo": "O Último Olimpiano",
+    "saga": "Percy Jackson e os Olimpianos",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 9.3
+  },
+  {
+    "id": 31,
+    "titulo": "O Herói Perdido",
+    "saga": "Os Heróis do Olimpo",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.7
+  },
+  {
+    "id": 32,
+    "titulo": "O Filho de Netuno",
+    "saga": "Os Heróis do Olimpo",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.8
+  },
+  {
+    "id": 33,
+    "titulo": "A Marca de Atena",
+    "saga": "Os Heróis do Olimpo",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 9.1
+  },
+  {
+    "id": 34,
+    "titulo": "A Casa de Hades",
+    "saga": "Os Heróis do Olimpo",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 9.4
+  },
+  {
+    "id": 35,
+    "titulo": "O Sangue do Olimpo",
+    "saga": "Os Heróis do Olimpo",
+    "genero": "Fantasia / Mitologia",
+    "status": "Lido",
+    "nota": 8.8
+  },
+  {
+    "id": 36,
+    "titulo": "Um Diário de um Banana",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 8.3
+  },
+  {
+    "id": 37,
+    "titulo": "Rodrick é o Cara",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 8.4
+  },
+  {
+    "id": 38,
+    "titulo": "A Gota d'Água",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 8.3
+  },
+  {
+    "id": 39,
+    "titulo": "Dias de Cão",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 8.1
+  },
+  {
+    "id": 40,
+    "titulo": "A Verdade Nua e Crua",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 8.0
+  },
+  {
+    "id": 41,
+    "titulo": "Casa dos Horrores",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 8.0
+  },
+  {
+    "id": 42,
+    "titulo": "Segurando Vela",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.9
+  },
+  {
+    "id": 43,
+    "titulo": "Maré de Azar",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 44,
+    "titulo": "Caindo na Estrada",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.9
+  },
+  {
+    "id": 45,
+    "titulo": "Bons Tempos",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 46,
+    "titulo": "Vai ou Racha",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.7
+  },
+  {
+    "id": 47,
+    "titulo": "Sangue Ruim",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 48,
+    "titulo": "Batalha de Sucesso",
+    "saga": "Diário de um Banana",
+    "genero": "Humor / Infantojuvenil",
+    "status": "Lido",
+    "nota": 7.7
+  },
+  {
+    "id": 49,
+    "titulo": "Divergente",
+    "saga": "Divergente",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 9.0
+  },
+  {
+    "id": 50,
+    "titulo": "Insurgente",
+    "saga": "Divergente",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 8.4
+  },
+  {
+    "id": 51,
+    "titulo": "Convergente",
+    "saga": "Divergente",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 7.5
+  },
+  {
+    "id": 52,
+    "titulo": "Quatro",
+    "saga": "Divergente",
+    "genero": "Distopia",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 53,
+    "titulo": "O Guia do Mochileiro das Galáxias",
+    "saga": "O Mochileiro das Galáxias",
+    "genero": "Ficção científica / Humor",
+    "status": "Lido",
+    "nota": 9.0
+  },
+  {
+    "id": 54,
+    "titulo": "O Restaurante no Fim do Universo",
+    "saga": "O Mochileiro das Galáxias",
+    "genero": "Ficção científica / Humor",
+    "status": "Lido",
+    "nota": 8.7
+  },
+  {
+    "id": 55,
+    "titulo": "A Vida, o Universo e Tudo Mais",
+    "saga": "O Mochileiro das Galáxias",
+    "genero": "Ficção científica / Humor",
+    "status": "Lido",
+    "nota": 8.5
+  },
+  {
+    "id": 56,
+    "titulo": "Até Mais, e Obrigado pelos Peixes!",
+    "saga": "O Mochileiro das Galáxias",
+    "genero": "Ficção científica / Humor",
+    "status": "Lido",
+    "nota": 8.1
+  },
+  {
+    "id": 57,
+    "titulo": "Praticamente Inofensiva",
+    "saga": "O Mochileiro das Galáxias",
+    "genero": "Ficção científica / Humor",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 58,
+    "titulo": "Deixados para Trás",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 59,
+    "titulo": "Tribulação",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.8
+  },
+  {
+    "id": 60,
+    "titulo": "Nicolae",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.9
+  },
+  {
+    "id": 61,
+    "titulo": "A Colheita",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.6
+  },
+  {
+    "id": 62,
+    "titulo": "Apoliom",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.7
+  },
+  {
+    "id": 63,
+    "titulo": "Assassinos",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.5
+  },
+  {
+    "id": 64,
+    "titulo": "Possuídos",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.4
+  },
+  {
+    "id": 65,
+    "titulo": "A Marca",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.5
+  },
+  {
+    "id": 66,
+    "titulo": "Profanação",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.4
+  },
+  {
+    "id": 67,
+    "titulo": "A Décima Praga",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.3
+  },
+  {
+    "id": 68,
+    "titulo": "Arrebatamento",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.3
+  },
+  {
+    "id": 69,
+    "titulo": "O Remanescente",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.5
+  },
+  {
+    "id": 70,
+    "titulo": "O Exército de Deus",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.4
+  },
+  {
+    "id": 71,
+    "titulo": "A Perseguição",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.3
+  },
+  {
+    "id": 72,
+    "titulo": "A Vitória",
+    "saga": "Deixados para Trás",
+    "genero": "Ficção cristã / Apocalíptico",
+    "status": "Lido",
+    "nota": 7.5
+  }
+]
